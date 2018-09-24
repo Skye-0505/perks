@@ -46,3 +46,7 @@
 	align-items: flex-end;
 	margin:10px;
 }
+.wrapper2{
+	display:flex;
+	justify-content:space-between;
+}
